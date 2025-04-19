@@ -8,7 +8,7 @@ Bu uygulamanın amacı, React kullanarak temel bir Star Wars gemi bilgi uygulama
 
 ## Canlı Demo
 
-Projeyi çevrimiçi olarak keşfetmek için [Demo Linki](https://silver-haupia-1fd482.netlify.app) üzerinden erişebilirsiniz.
+Projeyi çevrimiçi olarak keşfetmek için üzerinden erişebilirsiniz.
 
 ## Özellikler
 
@@ -24,12 +24,3 @@ Projeyi çevrimiçi olarak keşfetmek için [Demo Linki](https://silver-haupia-1
 - **JavaScript**: Görev yönetimi ve uygulama mantığı.
 - **CSS**: Basit ve duyarlı bir arayüz sağlamak için.
 - **HTML**: React içinde uygulama yapısını oluşturmak için.
-
-## Kurulum ve Yükleme
-
-Projeyi yerel olarak çalıştırmak için şu adımları izleyin:
-
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/yakuperenermurat/Star-Wars-App.git
-# Star-Wars-App
